@@ -1,0 +1,15 @@
+[7008:2948:0718/160536.927:INFO:components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc:202] No machine level policy manager exists.
+[2512:15704:0718/160537.553:ERROR:ui\gl\gl_display.cc:408] EGL Driver message (Error) eglCreateContext: Requested version is not supported
+[2512:15704:0718/160537.588:ERROR:ui\gl\gl_display.cc:408] EGL Driver message (Error) eglCreateContext: Requested version is not supported
+[7008:2948:0718/160549.954:INFO:CONSOLE:163] "Event handler of 'x-storagemutated-1' event must be added on the initial evaluation of worker script.", source: https://static.whatsapp.net/rsrc.php/v4/yu/r/DBWBKQl6uwK.js (163)
+[7008:16324:0718/160558.023:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: PHONE_REGISTRATION_ERROR
+[7008:16324:0718/160558.040:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: PHONE_REGISTRATION_ERROR
+[7008:2948:0718/160624.867:INFO:CONSOLE:76] "ErrorUtils caught an error:
+
+Converting to a string will drop content data. Hash="undefined" Translation="{user_name} adicionou {names}" Content="{"key":null,"ref":null,"props":{"contact":{"id":"554396250924@c.us","type":"in","textStatusLastUpdateTime":-1,"syncToAddressbook":false},"showNotifyName":true,"elevatedPushNamesEnabled":true,"onClick":null}}" (type=object,Object)
+
+Subsequent non-fatal errors won't be logged; see https://fburl.com/debugjs. [object Object]", source: https://static.whatsapp.net/rsrc.php/v4/yB/r/XWXchw_sM2I.js (76)
+[7008:16324:0718/160627.529:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[7008:16324:0718/160721.343:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[10516:10836:0718/160821.231:WARNING:net\extras\sqlite\sqlite_persistent_store_backend_base.cc:176] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:226 to client_task_runner_.
+[10516:10836:0718/160821.232:WARNING:net\extras\sqlite\sqlite_persistent_store_backend_base.cc:176] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:226 to client_task_runner_.
